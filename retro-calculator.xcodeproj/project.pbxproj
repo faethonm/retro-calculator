@@ -14,6 +14,7 @@
 		D35F39FF1E7F11F10022B782 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D35F39FD1E7F11F10022B782 /* LaunchScreen.storyboard */; };
 		D35F3A0A1E7F11F10022B782 /* retro_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35F3A091E7F11F10022B782 /* retro_calculatorTests.swift */; };
 		D35F3A151E7F11F10022B782 /* retro_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35F3A141E7F11F10022B782 /* retro_calculatorUITests.swift */; };
+		D35F3A231E7F1C9F0022B782 /* VCR_OSD_MONO_1.001.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D35F3A221E7F1C9F0022B782 /* VCR_OSD_MONO_1.001.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D35F3A101E7F11F10022B782 /* retro-calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "retro-calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D35F3A141E7F11F10022B782 /* retro_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = retro_calculatorUITests.swift; sourceTree = "<group>"; };
 		D35F3A161E7F11F10022B782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D35F3A221E7F1C9F0022B782 /* VCR_OSD_MONO_1.001.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = VCR_OSD_MONO_1.001.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		D35F39F31E7F11F10022B782 /* retro-calculator */ = {
 			isa = PBXGroup;
 			children = (
+				D35F3A221E7F1C9F0022B782 /* VCR_OSD_MONO_1.001.ttf */,
 				D35F39F41E7F11F10022B782 /* AppDelegate.swift */,
 				D35F39F61E7F11F10022B782 /* ViewController.swift */,
 				D35F39F81E7F11F10022B782 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D35F39FF1E7F11F10022B782 /* LaunchScreen.storyboard in Resources */,
+				D35F3A231E7F1C9F0022B782 /* VCR_OSD_MONO_1.001.ttf in Resources */,
 				D35F39FC1E7F11F10022B782 /* Assets.xcassets in Resources */,
 				D35F39FA1E7F11F10022B782 /* Main.storyboard in Resources */,
 			);
